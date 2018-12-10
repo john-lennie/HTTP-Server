@@ -1,0 +1,24 @@
+{
+  "name": "HTTP-Server",
+  "version": "1.0.0",
+  "description": "Web server that sends back http responses, using node.js, express, and ejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/john-lennie/HTTP-Server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/john-lennie/HTTP-Server/issues"
+  },
+  "homepage": "https://github.com/john-lennie/HTTP-Server#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  }
+}
